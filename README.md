@@ -1,7 +1,3 @@
-Here’s a professional and detailed README for your **Virtual Car Showroom Website** project:  
-
----
-
 # 🚗 Virtual Car Showroom Website  
 
 Welcome to the **Virtual Car Showroom** — an immersive web application designed to revolutionize the way users explore and shop for cars online. Built using modern web technologies, this project delivers a seamless and captivating experience for browsing a vast collection of cars, complete with dynamic filters, vivid visuals, and smooth navigation.  
@@ -138,4 +134,3 @@ For any inquiries or feedback, feel free to reach out:
 
 ---
 
-Let me know if you'd like me to tweak anything further! 🚀
